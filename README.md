@@ -44,3 +44,15 @@ Troubleshooting
 - If build still fails, open "x64 Native Tools Command Prompt for VS" and run pip there.
 - Ensure your Python architecture (x64) matches the installed MSVC toolchain.
 
+
+conda create -n contractminer python=3.11.9 -y
+conda activate contractminer
+
+# install native libs from conda-forge
+conda install -c conda-forge hnswlib -y
+# or for FAISS:
+# conda install -c pytorch faiss-cpu -y
+
+# install pip-only deps
+python -m pip install --upgrade pip setuptools wheel
+pip install -r requirements.txt
