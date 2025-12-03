@@ -1,0 +1,32 @@
+# Web framework and server
+fastapi>=0.95.0,<0.97
+uvicorn[standard]>=0.18.0,<0.23
+
+# OpenAI client
+openai>=1.0.0
+
+# PDF and text processing
+pypdf>=3.0.0
+
+# Embeddings and sentence transformers
+sentence-transformers>=2.2.2
+
+# Numerical and ML infra
+numpy>=1.24.0,<1.27.0
+scipy>=1.10.0
+
+# Vector DB alternatives (pure Python fallback)
+hnswlib>=0.7.0
+
+# DB and ORM
+SQLAlchemy>=2.0.19,<2.1.0
+alembic>=1.11.0
+
+# Dev, testing, and utilities
+python-dotenv>=1.0.0
+pytest>=7.2.0
+tqdm>=4.60.0
+requests>=2.28.0
+
+# Rate limiting for FastAPI
+slowapi>=0.1.5

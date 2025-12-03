@@ -1,0 +1,24 @@
+Custom License: AGPL-3.0-Modified
+Copyright (c) 2025 Pankaj Bijwe
+
+This software is based on the GNU Affero General Public License v3 (AGPL-3.0),
+with the following modifications:
+
+1. Forking is permitted for non-commercial, educational, or personal use.
+2. Cloning the repository for public redistribution or mirroring is prohibited.
+3. Commercial use, including SaaS deployment, resale, or integration into paid products, is strictly forbidden without explicit written permission.
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+All other terms of AGPL-3.0 apply.
+Full AGPL-3.0 text: https://www.gnu.org/licenses/agpl-3.0.txt
+
